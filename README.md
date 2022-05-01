@@ -11,7 +11,7 @@ latest version
 
 [source](https://git.sr.ht/~wolfi/algotree-zig)
 
-## Lua + [LÖVE](https://love2d.org/) - 2017
+## Lua + [LÖVE](https://love2d.org/) - 2021
 Second version, animated but leaves are not spawining properly
 
 ![](love2d.gif)
