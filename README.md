@@ -2,7 +2,7 @@
 
 Algorithmicaly generated growing trees
 
-there are currently three versions made with different tools and languages, they vary in functionality and with some code from 2017.
+there are currently three versions made with different tools and languages
 
 ## [Zig](https://ziglang.org/) + [Raylib](https://www.raylib.com/) - 2022
 
