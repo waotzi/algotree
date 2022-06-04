@@ -1,0 +1,9 @@
+[submodule "algotree-pixijs"]
+	path = algotree-pixijs
+	url = https://codeberg.org/wolfi/algotree-pixijs
+[submodule "algotree-love2d"]
+	path = algotree-love2d
+	url = https://codeberg.org/wolfi/algotree-love2d
+[submodule "algotree-zig"]
+	path = algotree-zig
+	url = https://codeberg.org/wolfi/algotree-zig

@@ -8,13 +8,12 @@ there are currently three versions made with different tools and languages
 
 ![](zig.gif)
 
-- [zig source](https://git.sr.ht/~wolfi/algotree-zig)
-- [pixijs source](https://git.sr.ht/~wolfi/algotree-pixijs)
-- [pixijs preview](https://wolfi.space/algotree)
+- [zig source](https://codeberg.org/wolfi/algotree-zig)
+- [pixijs source](https://codeberg.org/wolfi/algotree-pixijs)
 
 ## Lua + [LÖVE](https://love2d.org/) - 2021
 
 ![](love2d.gif)
 
-[source](https://git.sr.ht/~wolfi/algotree-love2d)
+[source](https://codeberg.org/wolfi/algotree-love2d)
 
