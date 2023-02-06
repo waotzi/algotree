@@ -1,0 +1,16 @@
+return {
+    type = "cactus",
+    cs_branch = {.5, .7, .48, .63, .3, .35},
+    cs_leaf = {.6, .8, .75, .9, .6, .7},
+    changeColor = {-.1, -.25, -.2},
+    growTime = 2,
+    maxStage = 7,
+    w = 14,
+    h = 42,
+    splitChance = 4,
+    leafSize = .7,
+    leafChance = 4,
+    startSpilt = true,
+    fuel = 5,
+    addFuel = 3,
+}
