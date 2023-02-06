@@ -1,1 +1,9 @@
 *.swp
+
+zig-cache
+zig-out
+raylib-zig
+.vscode/*
+.tool-versions
+
+*.love

@@ -1,9 +1,0 @@
-[submodule "algotree-pixijs"]
-	path = algotree-pixijs
-	url = https://github.com/waotzi/algotree-pixijs
-[submodule "algotree-love2d"]
-	path = algotree-love2d
-	url = https://github.com/waotzi/algotree-love2d
-[submodule "algotree-zig"]
-	path = algotree-zig
-	url = https://github.com/waotzi/algotree-zig
